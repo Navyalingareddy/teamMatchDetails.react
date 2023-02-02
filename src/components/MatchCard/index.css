@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.match_card_container {
+  background-color: blue;
+  height: 120px;
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.match_logo {
+  height: 100px;
+  width: 80px;
+}
+.competing_team {
+  color: #fff;
+  font-size: 16px;
+}
+.runs {
+  color: #fff;
+  font-size: 16px;
+}
+.status {
+  color: 'red';
+  font-size: 12px;
+}
